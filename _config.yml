@@ -1,4 +1,3 @@
-layout_spectrum: 0.39265413233079016
 typography_spectrum: 0.4452922318596393
 color:
   brandStrength: 0.5421736945863813
@@ -11,5 +10,7 @@ color:
     - '#BF3E38'
     - '#0068C5'
     - '#DDC15D'
+layout_spectrum: 0.39265413233079016
 name: NU / reclame
 title: NU / dan
+description: Uit Zwolle
